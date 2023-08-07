@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "school_name": "University of Excellence",
+    "scholarship_name": "Academic Excellence Scholarship",
+    "required_gpa": 3.5,
+    "minimum_volunteer_hours": 50,
+    "required_ap_programs": ["Calculus AB", "Physics 1"],
+    "award_amount": 5000,
+    "extra_info": "Open to students pursuing any field of study."
+  },
+  {
+    "id": "2",
+    "school_name": "Community College Foundation",
+    "scholarship_name": "Community Service Champions Scholarship",
+    "required_gpa": 3.0,
+    "minimum_volunteer_hours": 100,
+    "required_ap_programs": [],
+    "award_amount": 2500,
+    "extra_info": "For students enrolled in community college programs."
+  },
+  {
+    "id": "3",
+    "school_name": "STEM University",
+    "scholarship_name": "STEM Innovators Grant",
+    "required_gpa": 3.7,
+    "minimum_volunteer_hours": 25,
+    "required_ap_programs": ["Computer Science A"],
+    "award_amount": 3000,
+    "extra_info": "Exclusive to students pursuing STEM-related fields."
+  },
+  {
+    "id": "4",
+    "school_name": "School of Arts and Culture",
+    "scholarship_name": "Arts and Culture Scholarship",
+    "required_gpa": 3.2,
+    "minimum_volunteer_hours": 30,
+    "required_ap_programs": [],
+    "award_amount": 1500,
+    "extra_info": "For students passionate about arts and cultural studies."
+  },
+  {
+    "id": "5",
+    "school_name": "FirstGen University",
+    "scholarship_name": "First-Generation Scholars Award",
+    "required_gpa": 3.0,
+    "minimum_volunteer_hours": 50,
+    "required_ap_programs": [],
+    "award_amount": 4000,
+    "extra_info": "Available to first-generation college students."
+  },
+  {
+    "id": "6",
+    "school_name": "Environmental Institute",
+    "scholarship_name": "Environmental Stewardship Scholarship",
+    "required_gpa": 3.5,
+    "minimum_volunteer_hours": 75,
+    "required_ap_programs": ["Environmental Science"],
+    "award_amount": 2000,
+    "extra_info": "For students committed to environmental conservation."
+  },
+  {
+    "id": "7",
+    "school_name": "Women's Leadership Academy",
+    "scholarship_name": "Women in Leadership Scholarship",
+    "required_gpa": 3.5,
+    "minimum_volunteer_hours": 50,
+    "required_ap_programs": [],
+    "award_amount": 3500,
+    "extra_info": "Designed to empower and support women in leadership roles."
+  },
+  {
+    "id": "8",
+    "school_name": "Tech Innovators Institute",
+    "scholarship_name": "Digital Innovators Scholarship",
+    "required_gpa": 3.2,
+    "minimum_volunteer_hours": 25,
+    "required_ap_programs": ["Computer Science Principles"],
+    "award_amount": 2800,
+    "extra_info": "For students with a passion for digital innovation and technology."
+  },
+  {
+    "id": "9",
+    "school_name": "Health Sciences University",
+    "scholarship_name": "Healthcare Heroes Grant",
+    "required_gpa": 3.6,
+    "minimum_volunteer_hours": 75,
+    "required_ap_programs": [],
+    "award_amount": 4500,
+    "extra_info": "Awarded to future healthcare professionals and caregivers."
+  },
+  {
+    "id": "10",
+    "school_name": "Entrepreneurship School",
+    "scholarship_name": "Entrepreneurship Excellence Scholarship",
+    "required_gpa": 3.8,
+    "minimum_volunteer_hours": 30,
+    "required_ap_programs": ["Microeconomics", "Macroeconomics"],
+    "award_amount": 5000,
+    "extra_info": "For aspiring entrepreneurs with innovative business ideas."
+  },
+  {
+    "id": "11",
+    "school_name": "Sports Academy",
+    "scholarship_name": "Sports and Athletics Scholarship",
+    "required_gpa": 3.0,
+    "minimum_volunteer_hours": 50,
+    "required_ap_programs": [],
+    "award_amount": 2000,
+    "extra_info": "For talented student-athletes pursuing sports-related careers."
+  },
+  {
+    "id": "12",
+    "school_name": "Computer Science Institute",
+    "scholarship_name": "Computer Science Pioneers Grant",
+    "required_gpa": 3.7,
+    "minimum_volunteer_hours": 20,
+    "required_ap_programs": ["Computer Science A"],
+    "award_amount": 3200,
+    "extra_info": "Designed to support future pioneers in computer science."
+  },
+  {
+    "id": "13",
+    "school_name": "Performing Arts Conservatory",
+    "scholarship_name": "Performing Arts Achievement Scholarship",
+    "required_gpa": 3.3,
+    "minimum_volunteer_hours": 40,
+    "required_ap_programs": [],
+    "award_amount": 2700,
+    "extra_info": "For talented performers pursuing careers in the arts."
+  },
+  {
+    "id": "14",
+    "school_name": "Technology and Diversity Institute",
+    "scholarship_name": "Diversity and Inclusion in Tech Scholarship",
+    "required_gpa": 3.5,
+    "minimum_volunteer_hours": 50,
+    "required_ap_programs": [],
+    "award_amount": 3800,
+    "extra_info": "Promoting diversity and inclusivity in the tech industry."
+  },
+  {
+    "id": "15",
+    "school_name": "Global Studies University",
+    "scholarship_name": "Global Citizenship Scholarship",
+    "required_gpa": 3.4,
+    "minimum_volunteer_hours": 60,
+    "required_ap_programs": [],
+    "award_amount": 4000,
+    "extra_info": "For students committed to global issues and international cooperation."
+  },
+  {
+    "id": "16",
+    "school_name": "Education College",
+    "scholarship_name": "Future Educators Grant",
+    "required_gpa": 3.2,
+    "minimum_volunteer_hours": 30,
+    "required_ap_programs": [],
+    "award_amount": 2500,
+    "extra_info": "Supporting future educators and teachers in their academic journey."
+  },
+  {
+    "id": "17",
+    "school_name": "Business School of Excellence",
+    "scholarship_name": "Business Leaders Scholarship",
+    "required_gpa": 3.6,
+    "minimum_volunteer_hours": 50,
+    "required_ap_programs": [],
+    "award_amount": 3200,
+    "extra_info": "For future business leaders with exceptional leadership skills."
+  },
+  {
+    "id": "18",
+    "school_name": "Environmental Studies Institute",
+    "scholarship_name": "Environmental Sustainability Grant",
+    "required_gpa": 3.3,
+    "minimum_volunteer_hours": 40,
+    "required_ap_programs": ["Environmental Science"],
+    "award_amount": 3000,
+    "extra_info": "For students dedicated to advancing environmental sustainability."
+  },
+  {
+    "id": "19",
+    "school_name": "Media and Communications School",
+    "scholarship_name": "Media and Communication Excellence Scholarship",
+    "required_gpa": 3.8,
+    "minimum_volunteer_hours": 20,
+    "required_ap_programs": [],
+    "award_amount": 3500,
+    "extra_info": "For students pursuing careers in media and communications."
+  },
+  {
+    "id": "20",
+    "school_name": "Health Sciences Institute",
+    "scholarship_name": "Community Health Advocates Scholarship",
+    "required_gpa": 3.5,
+    "minimum_volunteer_hours": 50,
+    "required_ap_programs": [],
+    "award_amount": 4000,
+    "extra_info": "Recognizing students passionate about community health and well-being."
+  },
+  {
+    "id": "21",
+    "school_name": "Institute of Artificial Intelligence",
+    "scholarship_name": "Artificial Intelligence Innovators Grant",
+    "required_gpa": 3.7,
+    "minimum_volunteer_hours": 25,
+    "required_ap_programs": ["Computer Science A", "Statistics"],
+    "award_amount": 4500,
+    "extra_info": "For students exploring the potential of artificial intelligence."
+  }
+]
